@@ -277,7 +277,7 @@ public class HPController {
 				if (lectura.get(6).contains("0")) {
 					pw.print("Duraciones:" + duracion + " ms");
 				} else {
-					pw.print("Duraciones:" + lectura.get(6).split(":")[1] + "," + duracion + " ms");
+					pw.print("Duraciones:" + lectura.get(6).split(":")[1] + ", " + duracion + " ms");
 				}
 
 			} catch (Exception e) {
