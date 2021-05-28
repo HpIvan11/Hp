@@ -1,0 +1,7 @@
+ProcessedJson:0
+Rows:0
+Calls:0
+Msgs:0
+CC-Origin:0
+CC-Destination:0
+Duraciones:0
