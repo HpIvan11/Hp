@@ -1,7 +1,7 @@
-ProcessedJson:2
-Rows:58
-Calls:28
-Msgs:29
-CC-Origin:3
-CC-Destination:3
-Duraciones:567 ms,275 ms
+ProcessedJson:0
+Rows:0
+Calls:0
+Msgs:0
+CC-Origin:0
+CC-Destination:0
+Duraciones:0
